@@ -1,5 +1,7 @@
 /out/
-.edea/*
+.gitignore
+ExamplesCode.iml
+.idea
 
 *.class
 
