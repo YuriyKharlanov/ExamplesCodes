@@ -59,7 +59,7 @@ public class VendorCodeForMaxPrice {
     }
 
     public static void main(String[] args) throws IOException {
-        VendorCodeForMaxPrice vendorCodeForMaxPrice = new VendorCodeForMaxPrice("./src/main/resources/test.txt");
+        VendorCodeForMaxPrice vendorCodeForMaxPrice = new VendorCodeForMaxPrice("./src/main/java/VendorСodeForMaxPrice/test.txt");
         System.out.println(vendorCodeForMaxPrice.getVendorCodeList());
     }
 }
